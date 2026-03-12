@@ -2,6 +2,8 @@
 
 ![MeritLoop hero](./buddhist-agent-product/assets/meritloop-hero.svg)
 ![MeritLoop mockup](./buddhist-agent-product/assets/meritloop-mockup.svg)
+![MeritLoop storyboard](./buddhist-agent-product/assets/meritloop-storyboard.svg)
+![MeritLoop languages](./buddhist-agent-product/assets/meritloop-languages.svg)
 
 **English first. Localized by default. Built for Buddhist ritual companionship.**  
 **英文为默认主语言，并支持按本地系统自动切换。**

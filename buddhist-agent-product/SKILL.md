@@ -5,6 +5,10 @@ description: Use this skill when the user wants to design, scope, or refine a Bu
 
 # Buddhist Agent Product
 
+![MeritLoop hero](./assets/meritloop-hero.svg)
+![MeritLoop storyboard](./assets/meritloop-storyboard.svg)
+![MeritLoop languages](./assets/meritloop-languages.svg)
+
 ## Overview
 
 This skill turns vague "AI + Buddhism" ideas into product-ready concepts. It is especially useful for cyber-chanting agents, Buddhist ritual companions, scripture-based assistants, merit-point systems, local shrine robots, digital temple services, and hybrid hardware + agent experiences.
